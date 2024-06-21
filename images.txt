@@ -1,3 +1,4 @@
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
+cloudflare/cloudflared:latest
 --platform=linux/arm64 xiaoyaliu/alist
